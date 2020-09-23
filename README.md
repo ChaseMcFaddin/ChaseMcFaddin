@@ -6,17 +6,17 @@ I'm a software developer originally from Myrtle Beach, South Carolina now residi
 
 <img align="right" width="400" src="images/IMG_0680.GIF">
 
-- 🧑‍🎓  I'm currently a Code Fellow student & full time sales person
-- 💻  I'm currently learning APIs, Node JS, and SQL
-- 🤓  I'm looking to collaborate with other software developers
-- 🥅  My 2020 goals are to build my game night site and finish 301 classes
-- 🏈  Fun Fact: I used to be a professional **fantasy** football player
+- I'm currently a Code Fellow student & full time sales person
+- I'm currently learning APIs, Node JS, and SQL
+- I'm looking to collaborate with other software developers
+- My 2020 goals are to build my game-night site and finish 301 classes
+- Fun Fact: I used to be a professional **fantasy** football player 🏈
 
 <br>
 <br>
 
 ### Spotify Playing 🎧
-<img src="https://spotify-git-master.chasemcfaddin.vercel.app/api/spotify" alt="Chase" Spotify Playing" width="350" />
+<img src="https://spotify-git-master.chasemcfaddin.vercel.app/api/spotify" alt="Chase Spotify Playing" width="350" />
 <!-- (https://open.spotify.com/user/chasemcfaddin) -->
 
 
