@@ -12,18 +12,19 @@ I'm a software developer originally from Myrtle Beach, South Carolina now residi
 - My 2020 goals are to build my game-night site and finish 301 classes
 - Fun Fact: I used to be a professional **fantasy** football player 🏈
 
+<br>
+
 ### Spotify Playing 🎧
 <img src="https://spotify-git-master.chasemcfaddin.vercel.app/api/spotify" alt="Chase Spotify Playing" width="350" />
 <!-- (https://open.spotify.com/user/chasemcfaddin) -->
 
-
+<br>
+<br>
 
 ### Connect with me:
 
 [<img align="left" alt="Chase | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Chase | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
 
 ### Languages and Tools:
 
