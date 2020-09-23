@@ -9,7 +9,7 @@ I'm a software developer originally from Myrtle Beach, South Carolina now residi
 - I'm currently a Code Fellow student & full time sales person
 - I'm currently learning APIs, Node JS, and SQL
 - I'm looking to collaborate with other software developers
-- My 2020 goals are to build my game-night site and finish 301 classes
+- My 2020 goals are to finish 301 classes & begin a game in Unity
 - Fun Fact: I used to be a professional **fantasy** football player 🏈
 
 <br>
@@ -19,12 +19,19 @@ I'm a software developer originally from Myrtle Beach, South Carolina now residi
 <!-- (https://open.spotify.com/user/chasemcfaddin) -->
 
 <br>
-<br>
 
 ### Connect with me:
 
 [<img align="left" alt="Chase | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Chase | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Discord" width="26px" src="images/discord.svg">][discord]
+[<img align="left" alt="Gmail" width="26px" src="images/gmail.svg">][gmail]
+[<img align="left" alt="Reddit" width="26px" src="images/reddit.svg">][reddit]
+[<img align="left" alt="Slack" width="26px" src="images/slack.svg">][slack]
+[<img align="left" alt="Stack Overflow" width="26px" src="images/stackoverflow.svg">][stackoverflow]
+[<img align="left" alt="Switch" width="26px" src="images/nintendoswitch.svg">][switch]
+
+
 
 <br>
 
@@ -40,6 +47,12 @@ I'm a software developer originally from Myrtle Beach, South Carolina now residi
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][github]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][github]
+[<img align="left" alt="Adobe Premiere Pro" width="26px" src="images/adobepremierepro.svg">][github]
+[<img align="left" alt="Affinity" width="26px" src="images/affinityphoto.svg">][github]
+[<img align="left" alt="Audacity" width="26px" src="images/audacity.svg">][github]
+[<img align="left" alt="Podcasts" width="26px" src="images/applepodcasts.svg">][github]
+[<img align="left" alt="Salesforce" width="26px" src="images/salesforce.svg">][github]
+
 
 <!-- <details>
   <summary>:zap: Github Stats</summary>
@@ -51,6 +64,12 @@ I'm a software developer originally from Myrtle Beach, South Carolina now residi
 [twitter]: https://twitter.com/McfaddinChase
 [linkedin]: https://www.linkedin.com/in/chase-mcfaddin-62a8a548/
 [github]: https://github.com/ChaseMcFaddin
+[discord]: https://discord.com/
+[gmail]: http://gmail.com/
+[reddit]: https://www.reddit.com/
+[slack]: https://slack.com/
+[stackoverflow]: https://stackoverflow.com/
+[switch]: https://accounts.nintendo.com/
 <!-- [reddit]:  -->
 
 
