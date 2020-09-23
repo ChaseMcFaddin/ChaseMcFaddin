@@ -16,7 +16,7 @@ I'm a software developer originally from Myrtle Beach, South Carolina now residi
 <br>
 
 ### Spotify Playing 🎧
-[<img src="https://spotify-git-master.chasemcfaddin.vercel.app/api/spotify" alt="Chase" Spotify Playing" width="350" />]
+<img src="https://spotify-git-master.chasemcfaddin.vercel.app/api/spotify" alt="Chase" Spotify Playing" width="350" />
 <!-- (https://open.spotify.com/user/chasemcfaddin) -->
 
 
