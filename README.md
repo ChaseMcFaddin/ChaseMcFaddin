@@ -4,7 +4,7 @@ I'm a software developer originally from Myrtle Beach, South Carolina now residi
 
 <br>
 
-<img align="right" width="400" height="400" src="images/IMG_0680.GIF">
+<img align="right" width="400" height="350" src="images/IMG_0680.GIF">
 
 - I'm currently a Code Fellow student & full time sales person
 - I'm currently learning APIs, Node JS, and SQL
@@ -25,6 +25,8 @@ I'm a software developer originally from Myrtle Beach, South Carolina now residi
 
 [<img align="left" alt="Chase | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Chase | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br>
 
 ### Languages and Tools:
 
