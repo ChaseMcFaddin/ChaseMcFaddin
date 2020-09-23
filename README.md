@@ -4,7 +4,7 @@ I'm a software developer originally from Myrtle Beach, South Carolina now residi
 
 <br>
 
-<img align="right" width="400" height="800" src="images/IMG_0680.GIF">
+<img align="right" width="400" height="400" src="images/IMG_0680.GIF">
 
 - I'm currently a Code Fellow student & full time sales person
 - I'm currently learning APIs, Node JS, and SQL
