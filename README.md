@@ -1,6 +1,6 @@
 #**Chase McFaddin**
 
-<img width="500" a htef="https://giphy.com/gifs/4fWetbs5jmtOg/html5">
+<img width="500" src="images/IMG_0680.GIF">
 
 <!-- <img src="images/clint-patterson-4v9xuoiwuK4-unsplash.jpg" width="900" height="400">
 
