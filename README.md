@@ -7,6 +7,9 @@ Hey everyone! My name is Chase McFaddin. I was born and raised in small town Kin
 You can connect with me here:
 
 Linkedin: <a href="https://www.linkedin.com/in/chase-mcfaddin-62a8a548/ id="Linkedin"></a>
+  
+  
+<img src="https://spotify-git-master.chasemcfaddin.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />
 
 
 [![Spotify](spotify-git-master.chasemcfaddin.vercel.app/api/spotify)](https://open.spotify.com/user/chasemcfaddin)
