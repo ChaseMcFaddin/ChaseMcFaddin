@@ -51,7 +51,8 @@ I'm a software developer originally from Myrtle Beach, South Carolina now residi
 [<img align="left" alt="Audacity" width="26px" src="images/audacity.svg">][github]
 [<img align="left" alt="Podcasts" width="26px" src="images/applepodcasts.svg">][github]
 [<img align="left" alt="Salesforce" width="26px" src="images/salesforce.svg">][github] -->
-
+ 
+ <br>
 
 <details>
   <summary>:zap: Github Stats</summary>
