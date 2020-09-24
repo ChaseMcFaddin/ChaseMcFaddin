@@ -32,7 +32,6 @@ I'm a software developer originally from Myrtle Beach, South Carolina now residi
 [<img align="left" alt="Switch" width="26px" src="images/nintendoswitch.svg">][switch] -->
 
 
-
 <br>
 
 ### Languages and Tools:
@@ -54,12 +53,12 @@ I'm a software developer originally from Myrtle Beach, South Carolina now residi
 [<img align="left" alt="Salesforce" width="26px" src="images/salesforce.svg">][github] -->
 
 
-<!-- <details>
+<details>
   <summary>:zap: Github Stats</summary>
 
   <img align="left" src="https://github-readme-stats-git-master.chasemcfaddin.vercel.app/api?username=chasemcfaddin_icons=true&hide_border=true" />
 
-</details> -->
+</details>
 
 [twitter]: https://twitter.com/McfaddinChase
 [linkedin]: https://www.linkedin.com/in/chase-mcfaddin-62a8a548/
