@@ -53,6 +53,8 @@ I'm a software developer originally from Myrtle Beach, South Carolina now residi
 [<img align="left" alt="Salesforce" width="26px" src="images/salesforce.svg">][github] -->
  
  <br>
+ <br>
+ <br>
 
 <details>
   <summary>:zap: Github Stats</summary>
