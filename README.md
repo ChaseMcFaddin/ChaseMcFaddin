@@ -9,7 +9,7 @@ I'm a software developer originally from Myrtle Beach, South Carolina now residi
 - I'm currently a Code Fellow student & full time sales person
 - I'm currently learning APIs, Node JS, and SQL
 - I'm looking to collaborate with other software developers
-- My 2020 goals are to finish 301 classes & begin a game in Unity
+- My 2021 goals are to finish Code Fellows' classes & begin a game in Unity
 - Fun Fact: I used to be a professional **fantasy** football player 🏈
 
 <br>
